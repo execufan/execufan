@@ -3,5 +3,5 @@
 
 ### 🔥 10+ years of experience in software development across diverse industries.
 
-### 🌱 Always exploring cutting-edge trends like AI integration, blockchain, and serverless architecture.
+### 🌱 Always exploring cutting-edge trends like blockchain, AI integration, and serverless architecture.
 

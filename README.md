@@ -5,6 +5,8 @@
 ### 🌱 Always exploring cutting-edge trends like blockchain, AI integration, and serverless architecture.
 
 
+## MY SKILLSET
+
 
 <img src="./icons/NodeJS-Dark.svg" width="48"> 
 <img src="./icons/JavaScript.svg" width="48"> 
@@ -23,6 +25,7 @@
 <img src="./icons/PostgreSQL-Dark.svg" width="48">
 <img src="./icons/MySQL-Dark.svg" width="48">
 <img src="./icons/MongoDB.svg" width="48">
+<img src="./icons/Firebase-Light.svg" width="48">
 <img src="./icons/Prisma.svg" width="48">
 <img src="./icons/AWS-Dark.svg" width="48">
 <img src="./icons/Nginx.svg" width="48">

@@ -9,7 +9,7 @@ With over a decade of experience in software development, I have honed my skills
 I am proficient in a wide range of technologies and tools, including but not limited to:
   <table>
     <tr style="text-align: center;">
-      <td style="padding: 10px;"><img src="./icons/NodeJS-Dark.svg" alt="NodeJS" /> </td>
+      <td style="padding: 10px;"><img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="48" /> </td>
       <td style="padding: 10px;"><img src="./icons/JavaScript.svg" alt="JavaScript" /> </td>
       <td style="padding: 10px;"><img src="./icons/TypeScript.svg" alt="TypeScript" /> </td>
       <td style="padding: 10px;"><img src="./icons/Python-Dark.svg" alt="Python" /> </td>

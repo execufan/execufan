@@ -9,36 +9,36 @@ With over a decade of experience in software development, I have honed my skills
 I am proficient in a wide range of technologies and tools, including but not limited to:
   <table>
     <tr style="text-align: center;">
-      <td style="padding: 10px;"><img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="48" /> </td>
-      <td style="padding: 10px;"><img src="./icons/JavaScript.svg" alt="JavaScript" /> </td>
-      <td style="padding: 10px;"><img src="./icons/TypeScript.svg" alt="TypeScript" /> </td>
-      <td style="padding: 10px;"><img src="./icons/Python-Dark.svg" alt="Python" /> </td>
-      <td style="padding: 10px;"><img src="./icons/DotNet.svg" alt=".NET" /> </td>
-      <td style="padding: 10px;"><img src="./icons/GoLang.svg" alt="GoLang" /> </td>
+      <td style="padding: 10px;"><img src="./icons/NodeJS-Dark.svg" alt="NodeJS" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/JavaScript.svg" alt="JavaScript" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/TypeScript.svg" alt="TypeScript" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/Python-Dark.svg" alt="Python" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/DotNet.svg" alt=".NET" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/GoLang.svg" alt="GoLang" width="64" height="64"/> </td>
     </tr>
     <tr style="text-align: center;">
-      <td style="padding: 10px;"><img src="./icons/Solidity.svg" alt="Solidity" /> </td>
-      <td style="padding: 10px;"><img src="./icons/Rust.svg" alt="Rust" /> </td>
-      <td style="padding: 10px;"><img src="./icons/React-Dark.svg" alt="React" /> </td>
-      <td style="padding: 10px;"><img src="./icons/NextJS-Dark.svg" alt="Next.js" /> </td>
-      <td style="padding: 10px;"><img src="./icons/VueJS-Dark.svg" alt="Vue.js" /> </td>
-      <td style="padding: 10px;"><img src="./icons/Django.svg" alt="Django" /> </td>
+      <td style="padding: 10px;"><img src="./icons/Solidity.svg" alt="Solidity" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/Rust.svg" alt="Rust" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/React-Dark.svg" alt="React" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/NextJS-Dark.svg" alt="Next.js" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/VueJS-Dark.svg" alt="Vue.js" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/Django.svg" alt="Django" width="64" height="64"/> </td>
     </tr>
     <tr style="text-align: center;">
-      <td style="padding: 10px;"><img src="./icons/ExpressJS-Dark.svg" alt="Express.js" /> </td>
-      <td style="padding: 10px;"><img src="./icons/NestJS-Dark.svg" alt="NestJS" /> </td>
-      <td style="padding: 10px;"><img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" /> </td>
-      <td style="padding: 10px;"><img src="./icons/MySQL-Dark.svg" alt="MySQL" /> </td>
-      <td style="padding: 10px;"><img src="./icons/MongoDB.svg" alt="MongoDB" /> </td>
-      <td style="padding: 10px;"><img src="./icons/Firebase-Light.svg" alt="Firebase" /> </td>
+      <td style="padding: 10px;"><img src="./icons/ExpressJS-Dark.svg" alt="Express.js" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/NestJS-Dark.svg" alt="NestJS" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/MySQL-Dark.svg" alt="MySQL" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/MongoDB.svg" alt="MongoDB" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/Firebase-Light.svg" alt="Firebase" width="64" height="64"/> </td>
     </tr>
     <tr style="text-align: center;">
-      <td style="padding: 10px;"><img src="./icons/Prisma.svg" alt="Prisma" /> </td>
-      <td style="padding: 10px;"><img src="./icons/AWS-Dark.svg" alt="AWS" /> </td>
-      <td style="padding: 10px;"><img src="./icons/GCP-Dark.svg" alt="GCP" /> </td>
-      <td style="padding: 10px;"><img src="./icons/Ubuntu-Light.svg" alt="Ubuntu" /> </td>
-      <td style="padding: 10px;"><img src="./icons/Nginx.svg" alt="Nginx" /> </td>
-      <td style="padding: 10px;"><img src="./icons/Docker.svg" alt="Docker" /> </td>
+      <td style="padding: 10px;"><img src="./icons/Prisma.svg" alt="Prisma" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/AWS-Dark.svg" alt="AWS" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/GCP-Dark.svg" alt="GCP" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/Ubuntu-Light.svg" alt="Ubuntu" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/Nginx.svg" alt="Nginx" width="64" height="64"/> </td>
+      <td style="padding: 10px;"><img src="./icons/Docker.svg" alt="Docker" width="64" height="64"/> </td>
     </tr>
   </table>
 
